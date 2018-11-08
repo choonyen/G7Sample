@@ -18,6 +18,9 @@ public class G7 {
         // TODO code application logic here
         System.out.println("Hello World");
         System.out.println("Hello World 1 2 ");
+        System.out.println("Hello World 1 2 3");
+        System.out.println("Diu Lei Lou Mou");
+        
     }
     
 }
